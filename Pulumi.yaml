@@ -1,0 +1,3 @@
+name: pulumi-serverless-starter
+description: a boilerplate for a web application served by a serverless rest api
+runtime: nodejs

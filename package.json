@@ -1,0 +1,14 @@
+{
+    "name": "pulumi-serverless-starter",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^5.0.0",
+        "@pulumi/aws-apigateway": "^0.0.11",
+        "@pulumi/aws-static-website": "^0.2.0",
+        "@pulumi/awsx": "^0.40.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
